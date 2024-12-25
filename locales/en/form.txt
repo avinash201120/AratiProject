@@ -1,0 +1,134 @@
+ //   "form": {
+  //   "submitExchangeOffer": "Submit An Exchange Offer",
+  //   "financeProjects": "Finance your projects or expenses with your unused services or goods!",
+  //   "titleOfOffer": "Title of the Offer",
+  //   "next": "Next",
+  //   "whatDoYouOffer": "What do you offer?",
+  //   "good": "Good",
+  //   "service": "Service",
+  //   "category": "Category",
+  //   "electronics": "Electronics",
+  //   "health": "Health",
+  //   "subcategory": "Subcategory",
+  //   "accessories": "Accessories",
+  //   "featuredProductStatus": "Featured Product Status",
+  //   "goodCondition": "Good Condition",
+  //   "used": "Used",
+  //   "new": "New",
+  //   "offerStartDate": "Offer Start Date",
+  //   "offerEndDate": "Offer End Date",
+  //   "formOfExchange": "Form of Exchange",
+  //   "sale": "Sale",
+  //   "gift": "Gift",
+  //   "materialConditions": "Material conditions of the exchange",
+  //   "estimatedValue": "Estimated value of the exchange",
+  //   "depositPaymentBooking": "Deposit Payment for Booking",
+  //   "yes": "Yes",
+  //   "no": "No",
+  //   "depositPercentage": "Deposit Percentage",
+  //   "moneyBackGuarantee": "Money Back Guarantee",
+  //   "satisfactionGuarantee": "Satisfaction Guarantee",
+  //   "desiredPaymentForm": "Desired Payment Form",
+  //   "exchangeSum": "Exchange + or - Additional Sum",
+  //   "exchangeBenefit": "Exchange + or - Benefit or Service",
+  //   "desiredPaymentType": "Desired Payment Type",
+  //   "handToHand": "Hand-to-Hand Exchange",
+  //   "paymentBeforeDelivery": "Exchange & Payment Before Delivery",
+  //   "paymentAfterDelivery": "Exchange & Payment After Delivery",
+  //   "deliveryConditions": "Delivery Conditions",
+  //   "pickup": "Pickup",
+  //   "pickupAddress": "Pickup Address",
+  //   "country": "Country",
+  //   "city": "City",
+  //   "campus": "Campus",
+  //   "delivery": "Delivery",
+  //   "deliveryCost": "Delivery Cost",
+  //   "geolocation": "Geolocation",
+  //   "campusLocation": "Campus Location",
+  //   "otherSpecialConditions": "Other Special Conditions",
+  //   "additionalDescription": "Additional Description of the payment or Delivery Method",
+  //   "description": "Description",
+  //   "uploadFile": "Upload File",
+  //   "chooseFile": "Choose File"
+  // }
+
+
+   "categories": {
+    "title": "Achetez par catégorie",
+    "items": ["Électronique", "Mode", "Maison", "Beauté", "Sports", "Jouets", "Fruits", "Designs"]
+  },
+  "featuredProducts": {
+    "title": "Produits en vedette",
+    "items": [
+      { "name": "Nom du produit", "image": "product1.jpg", "price": "49,99 €" },
+      { "name": "Un autre produit", "image": "product2.jpg", "price": "69,99 €" }
+    ],
+    "addToCart": "Ajouter au panier"
+  },
+  "limitedOffer": {
+    "title": "Offre à durée limitée !",
+    "subtitle": "Dépêchez-vous ! L'offre se termine dans :",
+    "timer": "03:15:20",
+    "shopNow": "Achetez maintenant"
+  },
+  "reviews": {
+    "title": "Ce que disent nos clients",
+    "items": [
+      { "name": "Alina", "text": "Produit incroyable ! Totalement vaut le prix.", "image": "alina.jpg" },
+      { "name": "Kum", "text": "Grande qualité et service.", "image": "kum.jpg" }
+    ]
+  },
+  "newsletter": {
+    "title": "Restez informé des offres exclusives",
+    "placeholder": "Entrez votre email",
+    "subscribe": "S'abonner maintenant"
+  },
+  "footer": {
+    "sections": [
+      { "title": "Liens rapides", "items": ["Accueil", "Boutique", "Contact"] },
+      { "title": "Service client", "items": ["FAQs", "Retours"] },
+      { "title": "Suivez-nous", "items": ["Facebook", "Instagram"] }
+    ],
+    "rightsReserved": "© 2024 Votre Marque. Tous droits réservés."
+  }
+  
+
+    "hero": {
+      "title": "Discover the Best Deals on Top Products!",
+      "subtitle": "Shop the latest products at unbeatable prices.",
+      "shopNow": "Shop Now",
+      "exploreCategories": "Explore Categories",
+      "searchPlaceholder": "Search products..."
+    },
+    "categories": {
+      "title": "Shop by Category",
+      "items": ["Electronics", "Fashion", "Home", "Beauty", "Sports", "Toys", "Fruits", "Designs"]
+    },
+    "featuredProducts": {
+      "title": "Featured Products",
+      "addToCart": "Add to Cart",
+      "price": "Price"
+    },
+    "limitedOffer": {
+      "title": "Limited Time Offer!",
+      "subtitle": "Hurry up! Offer ends in:",
+      "timer": "03:15:20",
+      "shopNow": "Shop Now"
+    },
+    "reviews": {
+      "title": "What Our Customers Say",
+      "items": ["Alina", "Jack", "Kum"]
+    },
+    "newsletter": {
+      "title": "Stay Updated with Exclusive Deals",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe Now"
+    },
+    "footer": {
+      "sections": [
+        { "title": "Quick Links", "items": ["Home", "Shop", "Contact"] },
+        { "title": "Customer Support", "items": ["FAQs", "Returns"] },
+        { "title": "Follow Us", "items": ["Facebook", "Instagram"] }
+      ],
+      "rightsReserved": "© 2024 Your Brand. All Rights Reserved."
+    }

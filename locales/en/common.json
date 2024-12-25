@@ -1,0 +1,324 @@
+{
+  "login": {
+    "welcomeBack": "Welcome Back",
+    "logInToContinue": "Please log in to your account to continue.",
+    "email": "Email Address",
+    "password": "Password",
+    "emailRequired": "Email is required",
+    "invalidEmailFormat": "Invalid email format",
+    "passwordRequired": "Password is required",
+    "passwordMinLength": "Password must be at least 6 characters",
+    "loginButton": "Login",
+    "forgotPassword": "Forgot Password?",
+    "registerPrompt": "New User? Register Here",
+    "unexpectedError": "An unexpected error occurred.",
+    "successful": "Login successful!"
+  },
+  "register": {
+    "createAccount": "Create an Account",
+    "name": "Name",
+    "nameRequired": "Name is required.",
+    "email": "Email Address",
+    "emailRequired": "Email is required.",
+    "invalidEmailFormat": "Invalid email format.",
+    "password": "Password",
+    "passwordRequired": "Password is required.",
+    "passwordMinLength": "Password must be at least 6 characters.",
+    "role": "Role",
+    "selectRole": "Select a role",
+    "student": "Student",
+    "citizen": "Citizen",
+    "trader": "Trader",
+    "marketingConsent": "I want to receive emails about events, product updates, and company announcements.",
+    "termsAndConditions": "By creating an account, you agree to our terms and conditions and privacy policy.",
+    "registerButton": "Register",
+    "alreadyHaveAccount": "Already have an account?",
+    "login": "Log in",
+    "registrationSuccess": "Registration successful!",
+    "Registration Success Verification Email sent to your Registered Email": "Registration Success Verification Email sent to your Registered Email",
+    "registrationFailed": "Registration failed. Please try again.",
+    "unexpectedError": "An unexpected error occurred.",
+    "registerImageAlt": "Alt text for the register image",
+    "roleRequired": "Role is required"
+  },
+  
+      "admin": {
+        "welcome":"welcome",
+        "dashboard": "Dashboard",
+        "userManagement": "User Management",
+        "tradeManagement": "Trade Management",
+        "donationManagement": "Donation Management",
+        "salesManagement": "Sales Management",
+        "alerts": "Alerts"
+      },
+      "student": {
+        "welcome":"welcome",
+        "myCampusClub": "MyCampusClub",
+        "messaging": "Messaging",
+        "campusBlog": "Campus Blog",
+        "exchange": "Exchange",
+        "howItWorks": "How It Works",
+        "exchangeManagement": "Exchange Management",
+        "findExchangeOffer": "Find an Exchange Offer",
+        "submitExchangeOffer": "Submit an Exchange Offer",
+        "exchangeProductForProduct": "Exchange Product for a Product",
+        "exchangeProductForService": "Exchange Product for a Service",
+        "exchangeServiceForService": "Exchange Service for a Service",
+        "exchangeServiceForProduct": "Exchange Service for a Product",
+        "myExchangeOffers": "My Exchange Offers",
+        "myExchangeTransactions": "My Exchange Transactions",
+        "ongoingExchanges": "Ongoing Exchanges",
+        "exchangesCarriedOut": "Exchanges Carried Out",
+        "proposalsReceived": "Proposals Received",
+        "Donation": "Donation",
+        "DonationManagement":"Donation Management",
+        "Find a donation offer": "Find a donation offer",
+    "Submit a donation offer": "Submit a donation offer",
+    "My Donation offers": "My Donation offers",
+    "My Donation Transactions": "My Donation Transactions",
+    "Ongoing Donations": "Ongoing Donations",
+    "Donations made": "Donations made",
+    "Donations received": "Donations received",
+    "Campus Market(Sale)": "Campus Market(Sale)",
+    "Find a good deal": "Find a good deal",
+    "Submit an offer to sell": "Submit an offer to sell",
+    "My Sales offers": "My Sales offers",
+    "My Sales Transactions": "My Sales Transactions",
+    "Current sales": "Current sales",
+    "Sales made": "Sales made",
+    "Proposals received": "Proposals received",
+    "Legal mediation": "Legal mediation",
+    "Alert Management": "Alert Management",
+    "Parameters": "Parameters",
+    "My Profile": "My Profile",
+    "My Social Networks": "My Social Networks",
+    "Logout": "Logout",
+        "mySales": "My Sales",
+        "helpSupport": "Help & Support",
+        "profile": "Profile"
+      },
+      "proposeExchangeOffer": {
+    "heading": "Propose an Exchange Offer",
+    "subheading": "Finance your projects and expenses with your unused goods and services!",
+    "infoSection": {
+      "paragraph1": "Take the initiative and value the surplus goods or services you have, by exchanging them with the student community of the partner campuses.",
+      "paragraph2": "Whether it's equipment, specific skills, or time, your contribution can be exchanged for what you need, whether it's another useful service or product.",
+      "paragraph3": "This supportive and circular exchange allows you to strengthen cohesion between students, while giving a second life to your unused resources, and contributing to a dynamic of sharing and collaboration within the community.",
+      "paragraph4": "Be part of this network of mutual aid, optimize your resources and create opportunities that benefit all campus stakeholders!"
+    },
+    "imageUpload": {
+      "label": "Click to upload an image",
+      "alt": "Upload Logo"
+    },
+    "additionalInfo": {
+      "paragraph1": "Our mission is to help citizens meet their needs by facilitating the exchange of services and goods, in a secure way, while improving their material conditions for success and promoting a circular and solidarity economy within cities and campuses.",
+      "paragraph2": "You can fill in one or more offers on the exchange. These offers are geolocated to be transmitted to students enrolled on partner campuses!",
+      "paragraph3": "Before you begin publishing your offer, you confirm that you have read and agree to ViaProxy's Terms and Conditions of Use and Sale.",
+      "paragraph4": "By offering a product or service on our platform, you certify that you are acting either as an owner or service provider or as an agent legally invested by the owner of the good or the provider of the services offered.",
+      "terms": {
+        "text": "I confirm that I have read and agree to the",
+        "link": "Terms of Use and Privacy Policy",
+        "confirmation": "By posting your offer, you confirm that you agree to our Terms of Use and Privacy Policy."
+      }
+      }
+     
+    },
+    "form":{
+      "Submit An Exchange Offer": "Submit An Exchange Offer",
+  "Finance Your Projects Or Expenses With Your Unused Services Or Goods!": "Finance your projects or expenses with your unused services or goods!",
+  "Title of the Offer": "Title of the Offer",
+  "Enter Title": "Enter Title",
+  "what do you Offer": "What do you offer?",
+  "Good": "Good",
+  "Service": "Service",
+  "Category": "Category",
+  "Select Category":"Select Category",
+  "Electronics": "Electronics",
+  "Health": "Health",
+  "SubCategory": "Subcategory",
+  "Select SubCategory":"Select SubCategory",
+  "Accessories": "Accessories",
+  "FeaturedProductStatus": "Featured Product Status",
+  "Select Status":"Select Status",
+  "featuredProductStatus": "Select Status",
+  "Additional Description":"Additional Description",
+  "Material conditions of the exchange": "Material conditions of the exchange",
+  "Estimated value of the exchange": "Estimated value of the exchange",
+  "Deposit Payment for booking": "Deposit Payment for booking",
+  "yes": "yes",
+  "no": "no",
+  "DepositPercentage (%)": "Deposit Percentage",
+  "MoneyBackGuarantee": "Money Back Guarantee",
+  "SatisfactionGuarantee": "Satisfaction Guarantee",
+  "DesiredPaymentForm": "Desired Payment Form",
+  "Exchange + or - Additional Sum": "Exchange + or - Additional Sum",
+  "Exchange + or - Benefit or Service": "Exchange + or - Benefit or Service",
+  "DesiredPaymentType": "Desired Payment Type",
+  "handToHand": "Hand to Hand",
+  "Exchange & Payment Before Delivery": "Exchange & Payment Before Delivery",
+  "Exchange & Payment After Delivery": "Exchange & Payment After Delivery",
+  "DeliveryConditions": "Delivery Conditions",
+  "Pickup": "Pickup",
+  "PickupAddress": "Pickup Address",
+  "Address": "Address",
+  "Country": "Country",
+  "City": "City",
+  "campus": "Campus",
+  "Delivery": "Delivery",
+  "DeliveryCost (€)": "Delivery Cost (€)",
+  "Cost": "Cost",
+  "Geolocation": "Geolocation",
+  "Campus": "Campus",
+  "CampusLocation": "Campus Location",
+  "Other Special Conditions": "Other Special Conditions",
+  "Additional Description of the payment or Delivery Method": "Additional Description of the payment or Delivery Method",
+  "Description": "Description",
+  "uploadFile": "Upload File",
+  "uploadIconAlt": "Upload Icon",
+  "chooseFile": "Choose File",
+  "New": "New",
+  "GoodCondition": "Good Condition",
+  "Used": "Used",
+  "OfferStartDate": "Offer Start Date",
+  "OfferEndDate": "Offer End Date",
+  "FormOfExchange": "Form of Exchange",
+  "Select Form of Exchange":"Select Form of Exchange",
+  "formOfExchange": "Select Form",
+  "Sale": "Sale",
+  "Gift": "Gift",
+  "Next":"Next",
+  "Zone 1 Insertion Banner Advertising": "Zone 1 Insertion Banner Advertising",
+  "Additional Description Of Your Offer": "Additional description of your offer",
+  "Other Contingent Coverage Required": "Other Contingent Coverage Required",
+  "Upload Any Images Of The Offer": "Upload any images of the offer",
+  "Details Of The Proposed Offer": "Details of the proposed offer",
+  "Detail As Precisely As Possible What You Offer": "Detail as precisely as possible what you offer",
+  "DetailsOfTheExpectedRequirements": "Details of the Expected Requirements",
+  "clickToUpload": "Click to upload",
+  "Details Of The Expected Need": "Details of the Expected need",
+  "Detail Your Needs As Precisely As Possible": "Detail your needs as precisely as possible",
+  "titleOfTheOffer": "Title of the Offer",
+  "What Do You Want?": "What do you want?",
+  "Desired Product Status": "Desired Product Status",
+  "Nine": "Nine",
+  "Very Good Condition": "Very Good Condition",
+  "Good Condition": "Good Condition",
+  "Need For Repair": "Need for repair",
+  "Select Image":"Select Image",
+  "Satisfaction or Exchange Guarantee": "Satisfaction or Exchange Guarantee",
+  "Geolocation of the transaction": "Geolocation of the transaction",
+  "Geolocation of Campus": "GeoLocation of Campus",
+  "Geolocation of Country":"Geolocation of the Country",
+  "Your offer is successfully posted!": "Your offer is successfully posted!",
+  "We congratulate you for your Eco-Solidarity contribution!": "We congratulate you for your Eco-Solidarity contribution!",
+  "Any tips to optimize the impact of your Offer?":"Any tips to optimize the impact of your Offer?",
+  "enhance_social_branding_full": "Enhance your social branding by publishing an impactful post on our platform and on social networks, aimed at our community of current and future talent.",
+  "upload_offer_images": "Upload Any Images Of The Offer",
+  "click_to_upload": "Click to upload",
+  "Contingent Warranty Required":"Contingent Warranty Required",
+  "Exchange": "Exchange",
+    "Classic Sale": "Classic Sale",
+    "Auction": "Auction",
+    "Donation": "Donation",
+    "Select Payment Form":"Select Payment Form",
+    "Select Payment Type":"Select Payment Type",
+    "What do you Offer":"What do you Offer",
+    "Yes":"Yes",
+    "No":"No",
+    "Details of The Expected Requirements":"Details Of The Expected Requirements",
+    "Click to upload":"Click to upload",
+    "Title of the offer":"Title of the offer",
+    "What do you offer":"What do you offer",
+    "Featured Product Status":"Featured Product Status",
+    "Offer Start Date":"Offer Start Date",
+    "Offer End Date":"Offer End Date",
+    "Deposit Payment for Booking":"Deposit Payment for Booking",
+    "Money Back Guarantee":"Money Back Guarantee",
+    "Desired Payment Form":"Desired Payment Form",
+    "Desired Payment Type":"Desired Payment Type",
+    "Hand to Hand":"Hand to Hand",
+    "Delivery Conditions":"Delivery Conditions",
+    "Is there a delivery cost?":"Is there a delivery cost?",
+    "Delivery Cost Amount":"Delivery Cost Amount",
+    "Satisfaction Guarantee":"Satisfaction Guarantee",
+    "Upload File":"Upload File",
+    "Deposit Percentage (%)":"Deposit Percentage (%)",
+    "Hourly rate":"Hourly rate",
+    "Minimum benefit":"Minimum benefit",
+    "Package Requested":"Package Requested",
+    "Travel Expenses":"Travel Expenses",
+    "Free Quote":"Free Quote",
+    "Other Possible Costs":"Other Possible Costs",
+    "Fee Amount":"Fee Amount",
+    "Amount of These Costs":"Amount of These Costs",
+    "Specify the Nature of These Costs":"Specify the Nature of These Costs",
+    "Payment deposit for booking":"Payment deposit for booking",
+    "Percentage":"Percentage",
+    "FinanceYourProjectsOrExpensesWithYourUnusedServicesOrGoods!":"Finance your projects or expenses with your unused services or goods!"
+    
+ 
+    
+    
+
+    
+
+    
+   
+    
+    
+  
+    },
+
+    "Home": {
+    "hero": {
+      "title": "Discover the Best Deals on Top Products!",
+      "subtitle": "Shop the latest products at unbeatable prices.",
+      "shopNow": "Shop Now",
+      "exploreCategories": "Explore Categories",
+      "searchPlaceholder": "Search products..."
+    },
+    "categories": {
+      "title": "Shop by Category",
+      "items": ["Electronics", "Fashion", "Home", "Beauty", "Sports", "Toys", "Fruits", "Designs"]
+    },
+    "featuredProducts": {
+      "title": "Featured Products",
+      "items": [
+        { "name": "Product Name", "image": "product1.jpg", "price": "$49.99" },
+        { "name": "Another Product", "image": "product2.jpg", "price": "$69.99" }
+      ],
+      "addToCart": "Add to Cart"
+    },
+    "limitedOffer": {
+      "title": "Limited Time Offer!",
+      "subtitle": "Hurry up! Offer ends in:",
+      "timer": "03:15:20",
+      "shopNow": "Shop Now"
+    },
+    "reviews": {
+      "title": "What Our Customers Say",
+      "items": [
+        { "name": "Alina", "text": "Amazing product! Totally worth the price.", "image": "alina.jpg" },
+        { "name": "Kum", "text": "Great quality and service.", "image": "kum.jpg" }
+      ]
+    },
+    "newsletter": {
+      "title": "Stay Updated with Exclusive Deals",
+      "placeholder": "Enter your email",
+      "subscribe": "Subscribe Now"
+    },
+    "footer": {
+      "sections": [
+        { "title": "Quick Links", "items": ["Home", "Shop", "Contact"] },
+        { "title": "Customer Support", "items": ["FAQs", "Returns"] },
+        { "title": "Follow Us", "items": ["Facebook", "Instagram"] }
+      ],
+      "rightsReserved": "© 2024 Your Brand. All Rights Reserved."
+    }
+  }
+
+  
+    
+  }
+    
+

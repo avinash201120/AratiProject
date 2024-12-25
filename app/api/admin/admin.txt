@@ -1,0 +1,41 @@
+1.Users
+/api/admin/users: Handles fetching all users (GET) and creating a user (POST).
+/api/admin/users/[id]: Dynamically handles operations on a specific user (PUT, PATCH, DELETE).
+
+
+2.Trades
+/api/admin/trades: Handles fetching all trades (GET).
+/api/admin/trades/[id]: Dynamically handles operations for a specific trade (PATCH).
+
+
+3.Donations
+/api/admin/donations: Handles fetching all donation requests (GET).
+/api/admin/donations/[id]: Dynamically handles donation approvals/rejections (PATCH).
+
+
+4.Sales
+/api/admin/sales: Handles fetching all sales listings (GET).
+/api/admin/sales/[id]: Dynamically handles sales approvals/rejections (PATCH).
+
+
+5.Messages
+/api/admin/messages: Handles fetching all messages (GET).
+/api/admin/messages/[id]: Dynamically handles message deletion (DELETE).
+
+
+6.Legal Mediation
+/api/admin/mediation: Handles fetching all mediation requests (GET).
+/api/admin/mediation/[id]: Dynamically handles resolving mediation requests (PATCH).
+
+
+7.Alerts
+/api/admin/alerts: Handles fetching all alerts (GET).
+/api/admin/alerts/[id]: Dynamically handles dismissing specific alerts (DELETE).
+
+
+8.Social Media
+/api/admin/social-media: Handles fetching social media links (GET) and updating them (PATCH).
+
+
+9.Settings
+/api/admin/settings: Handles fetching platform settings (GET) and updating them (PATCH).
